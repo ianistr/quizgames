@@ -1,0 +1,185 @@
+
+{
+  "questions": [
+    {
+      "question": "Who directed the movie 'Inception'?",
+      "answers": [
+        {"option": "Christopher Nolan", "correct": true},
+        {"option": "Steven Spielberg", "correct": false},
+        {"option": "James Cameron", "correct": false},
+        {"option": "Quentin Tarantino", "correct": false}
+      ]
+    },
+    {
+      "question": "In the TV show 'Friends', what is the name of Ross Geller's sister?",
+      "answers": [
+        {"option": "Rachel Green", "correct": false},
+        {"option": "Monica Geller", "correct": true},
+        {"option": "Phoebe Buffay", "correct": false},
+        {"option": "Janice Hosenstein", "correct": false}
+      ]
+    },
+    {
+      "question": "Which movie features the song 'My Heart Will Go On'?",
+      "answers": [
+        {"option": "Titanic", "correct": true},
+        {"option": "The Bodyguard", "correct": false},
+        {"option": "Ghost", "correct": false},
+        {"option": "Pretty Woman", "correct": false}
+      ]
+    },
+    {
+      "question": "In 'Breaking Bad', what is Walter White's alias?",
+      "answers": [
+        {"option": "Gus", "correct": false},
+        {"option": "Heisenberg", "correct": true},
+        {"option": "Saul Goodman", "correct": false},
+        {"option": "Tuco", "correct": false}
+      ]
+    },
+    {
+      "question": "Who played Jack Sparrow in 'Pirates of the Caribbean'?",
+      "answers": [
+        {"option": "Orlando Bloom", "correct": false},
+        {"option": "Johnny Depp", "correct": true},
+        {"option": "Geoffrey Rush", "correct": false},
+        {"option": "Keira Knightley", "correct": false}
+      ]
+    },
+    {
+      "question": "In 'The Matrix', what is the name of the character played by Keanu Reeves?",
+      "answers": [
+        {"option": "Morpheus", "correct": false},
+        {"option": "Agent Smith", "correct": false},
+        {"option": "Neo", "correct": true},
+        {"option": "Trinity", "correct": false}
+      ]
+    },
+    {
+      "question": "Which TV series is set in the fictional land of Westeros?",
+      "answers": [
+        {"option": "The Witcher", "correct": false},
+        {"option": "Lord of the Rings", "correct": false},
+        {"option": "Game of Thrones", "correct": true},
+        {"option": "The Mandalorian", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the name of the kingdom where the Disney movie 'Frozen' is set?",
+      "answers": [
+        {"option": "Arendelle", "correct": true},
+        {"option": "Corona", "correct": false},
+        {"option": "Atlantica", "correct": false},
+        {"option": "Narnia", "correct": false}
+      ]
+    },
+    {
+      "question": "In 'Star Wars', who is Luke Skywalker's father?",
+      "answers": [
+        {"option": "Obi-Wan Kenobi", "correct": false},
+        {"option": "Yoda", "correct": false},
+        {"option": "Darth Vader", "correct": true},
+        {"option": "Han Solo", "correct": false}
+      ]
+    },
+    {
+      "question": "Who played the role of Hermione Granger in the 'Harry Potter' movies?",
+      "answers": [
+        {"option": "Emma Watson", "correct": true},
+        {"option": "Emma Stone", "correct": false},
+        {"option": "Daniel Radcliffe", "correct": false},
+        {"option": "Rupert Grint", "correct": false}
+      ]
+    },
+    {
+      "question": "Which movie features a talking donkey voiced by Eddie Murphy?",
+      "answers": [
+        {"option": "Madagascar", "correct": false},
+        {"option": "Shrek", "correct": true},
+        {"option": "Zootopia", "correct": false},
+        {"option": "Toy Story", "correct": false}
+      ]
+    },
+    {
+      "question": "In 'The Lord of the Rings', what is the name of Frodo's loyal friend?",
+      "answers": [
+        {"option": "Gandalf", "correct": false},
+        {"option": "Legolas", "correct": false},
+        {"option": "Samwise Gamgee", "correct": true},
+        {"option": "Aragorn", "correct": false}
+      ]
+    },
+    {
+      "question": "Which TV show features a character named Sheldon Cooper?",
+      "answers": [
+        {"option": "How I Met Your Mother", "correct": false},
+        {"option": "The Big Bang Theory", "correct": true},
+        {"option": "Friends", "correct": false},
+        {"option": "Parks and Recreation", "correct": false}
+      ]
+    },
+    {
+      "question": "In 'Toy Story', what is the name of the cowboy doll?",
+      "answers": [
+        {"option": "Buzz Lightyear", "correct": false},
+        {"option": "Woody", "correct": true},
+        {"option": "Jessie", "correct": false},
+        {"option": "Mr. Potato Head", "correct": false}
+      ]
+    },
+    {
+      "question": "Which movie features a character named 'The Dude'?",
+      "answers": [
+        {"option": "Pulp Fiction", "correct": false},
+        {"option": "The Big Lebowski", "correct": true},
+        {"option": "Fargo", "correct": false},
+        {"option": "No Country for Old Men", "correct": false}
+      ]
+    },
+    {
+      "question": "Who is the main antagonist in the 'Avengers' movies?",
+      "answers": [
+        {"option": "Loki", "correct": false},
+        {"option": "Ultron", "correct": false},
+        {"option": "Thanos", "correct": true},
+        {"option": "Red Skull", "correct": false}
+      ]
+    },
+    {
+      "question": "In 'The Simpsons', what is the name of the family's dog?",
+      "answers": [
+        {"option": "Snowball", "correct": false},
+        {"option": "Santa's Little Helper", "correct": true},
+        {"option": "Brian", "correct": false},
+        {"option": "Spike", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the name of the high school in 'Buffy the Vampire Slayer'?",
+      "answers": [
+        {"option": "Sunnydale High", "correct": true},
+        {"option": "West Beverly High", "correct": false},
+        {"option": "Rydell High", "correct": false},
+        {"option": "Shermer High", "correct": false}
+      ]
+    },
+    {
+      "question": "In 'Stranger Things', what is the name of the parallel dimension?",
+      "answers": [
+        {"option": "The Other Side", "correct": false},
+        {"option": "The Nether", "correct": false},
+        {"option": "The Upside Down", "correct": true},
+        {"option": "The Dark World", "correct": false}
+      ]
+    },
+    {
+      "question": "Who played the character of Tony Stark in the Marvel Cinematic Universe?",
+      "answers": [
+        {"option": "Chris Evans", "correct": false},
+        {"option": "Chris Hemsworth", "correct": false},
+        {"option": "Robert Downey Jr.", "correct": true},
+        {"option": "Mark Ruffalo", "correct": false}
+      ]
+    }
+  ]
+}

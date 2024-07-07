@@ -1,0 +1,187 @@
+
+{
+  "questions": [
+    {
+      "question": "What is the largest desert in the world?",
+      "answers": [
+        {"option": "Sahara Desert", "correct": false},
+        {"option": "Arctic Desert", "correct": true},
+        {"option": "Gobi Desert", "correct": false},
+        {"option": "Kalahari Desert", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country has the most natural lakes?",
+      "answers": [
+        {"option": "Canada", "correct": true},
+        {"option": "Russia", "correct": false},
+        {"option": "Brazil", "correct": false},
+        {"option": "United States", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "answers": [
+        {"option": "Monaco", "correct": false},
+        {"option": "Nauru", "correct": false},
+        {"option": "Vatican City", "correct": true},
+        {"option": "San Marino", "correct": false}
+      ]
+    },
+    {
+      "question": "Mount Everest is located in which mountain range?",
+      "answers": [
+        {"option": "Andes", "correct": false},
+        {"option": "Rocky Mountains", "correct": false},
+        {"option": "Himalayas", "correct": true},
+        {"option": "Alps", "correct": false}
+      ]
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "answers": [
+        {"option": "Amazon River", "correct": false},
+        {"option": "Nile River", "correct": true},
+        {"option": "Yangtze River", "correct": false},
+        {"option": "Mississippi River", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country is the largest by land area?",
+      "answers": [
+        {"option": "Canada", "correct": false},
+        {"option": "United States", "correct": false},
+        {"option": "Russia", "correct": true},
+        {"option": "China", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the capital city of Australia?",
+      "answers": [
+        {"option": "Sydney", "correct": false},
+        {"option": "Melbourne", "correct": false},
+        {"option": "Canberra", "correct": true},
+        {"option": "Brisbane", "correct": false}
+      ]
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "answers": [
+        {"option": "Atlantic Ocean", "correct": false},
+        {"option": "Indian Ocean", "correct": false},
+        {"option": "Arctic Ocean", "correct": false},
+        {"option": "Pacific Ocean", "correct": true}
+      ]
+    },
+    {
+      "question": "Which continent is known as the 'Land Down Under'?",
+      "answers": [
+        {"option": "Africa", "correct": false},
+        {"option": "South America", "correct": false},
+        {"option": "Australia", "correct": true},
+        {"option": "Antarctica", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answers": [
+        {"option": "Toronto", "correct": false},
+        {"option": "Vancouver", "correct": false},
+        {"option": "Ottawa", "correct": true},
+        {"option": "Montreal", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country has the highest population?",
+      "answers": [
+        {"option": "India", "correct": false},
+        {"option": "United States", "correct": false},
+        {"option": "China", "correct": true},
+        {"option": "Indonesia", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answers": [
+        {"option": "China", "correct": false},
+        {"option": "South Korea", "correct": false},
+        {"option": "Japan", "correct": true},
+        {"option": "Thailand", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the longest mountain range in the world?",
+      "answers": [
+        {"option": "Rocky Mountains", "correct": false},
+        {"option": "Himalayas", "correct": false},
+        {"option": "Andes Mountains", "correct": true},
+        {"option": "Alps", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country is home to the Great Barrier Reef?",
+      "answers": [
+        {"option": "Indonesia", "correct": false},
+        {"option": "Philippines", "correct": false},
+        {"option": "Australia", "correct": true},
+        {"option": "Fiji", "correct": false}
+      ]
+    },
+    {
+      "question": "Which river flows through Paris?",
+      "answers": [
+        {"option": "Thames", "correct": false},
+        {"option": "Danube", "correct": false},
+        {"option": "Seine", "correct": true},
+        {"option": "Rhine", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the capital city of Brazil?",
+      "answers": [
+        {"option": "Rio de Janeiro", "correct": false},
+        {"option": "São Paulo", "correct": false},
+        {"option": "Brasília", "correct": true},
+        {"option": "Salvador", "correct": false}
+      ]
+    },
+    {
+      "question": "In which country is the city of Istanbul located?",
+      "answers": [
+        {"option": "Greece", "correct": false},
+        {"option": "Egypt", "correct": false},
+        {"option": "Turkey", "correct": true},
+        {"option": "Iran", "correct": false}
+      ]
+    },
+    {
+      "question": "Which continent has the most countries?",
+      "answers": [
+        {"option": "Asia", "correct": false},
+        {"option": "Europe", "correct": false},
+        {"option": "Africa", "correct": true},
+        {"option": "South America", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the capital of South Africa?",
+      "answers": [
+        {"option": "Johannesburg", "correct": false},
+        {"option": "Pretoria", "correct": true},
+        {"option": "Cape Town", "correct": false},
+        {"option": "Durban", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country is famous for its fjords?",
+      "answers": [
+        {"option": "Sweden", "correct": false},
+        {"option": "New Zealand", "correct": false},
+        {"option": "Norway", "correct": true},
+        {"option": "Canada", "correct": false}
+      ]
+    }
+  ]
+}
+
+

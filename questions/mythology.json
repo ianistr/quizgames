@@ -1,0 +1,185 @@
+
+{
+  "questions": [
+    {
+      "question": "Who is the king of the gods in Greek mythology?",
+      "answers": [
+        {"option": "Zeus", "correct": true},
+        {"option": "Poseidon", "correct": false},
+        {"option": "Hades", "correct": false},
+        {"option": "Ares", "correct": false}
+      ]
+    },
+    {
+      "question": "In Norse mythology, what is the name of Thor's hammer?",
+      "answers": [
+        {"option": "Mjolnir", "correct": true},
+        {"option": "Gungnir", "correct": false},
+        {"option": "Brisingamen", "correct": false},
+        {"option": "Gjallarhorn", "correct": false}
+      ]
+    },
+    {
+      "question": "Which Egyptian god is depicted with the head of a falcon?",
+      "answers": [
+        {"option": "Osiris", "correct": false},
+        {"option": "Anubis", "correct": false},
+        {"option": "Horus", "correct": true},
+        {"option": "Ra", "correct": false}
+      ]
+    },
+    {
+      "question": "Who is the Roman god of war?",
+      "answers": [
+        {"option": "Mars", "correct": true},
+        {"option": "Jupiter", "correct": false},
+        {"option": "Apollo", "correct": false},
+        {"option": "Mercury", "correct": false}
+      ]
+    },
+    {
+      "question": "In Greek mythology, who is the goddess of wisdom?",
+      "answers": [
+        {"option": "Aphrodite", "correct": false},
+        {"option": "Artemis", "correct": false},
+        {"option": "Hera", "correct": false},
+        {"option": "Athena", "correct": true}
+      ]
+    },
+    {
+      "question": "Which mythological creature has the body of a lion and the head of a human?",
+      "answers": [
+        {"option": "Minotaur", "correct": false},
+        {"option": "Sphinx", "correct": true},
+        {"option": "Chimera", "correct": false},
+        {"option": "Centaur", "correct": false}
+      ]
+    },
+    {
+      "question": "In Hindu mythology, who is the god of destruction?",
+      "answers": [
+        {"option": "Vishnu", "correct": false},
+        {"option": "Brahma", "correct": false},
+        {"option": "Shiva", "correct": true},
+        {"option": "Indra", "correct": false}
+      ]
+    },
+    {
+      "question": "Who is the hero that completed twelve labors in Greek mythology?",
+      "answers": [
+        {"option": "Theseus", "correct": false},
+        {"option": "Perseus", "correct": false},
+        {"option": "Achilles", "correct": false},
+        {"option": "Heracles", "correct": true}
+      ]
+    },
+    {
+      "question": "In Celtic mythology, who is the god of the sea?",
+      "answers": [
+        {"option": "Lugh", "correct": false},
+        {"option": "Dagda", "correct": false},
+        {"option": "Cernunnos", "correct": false},
+        {"option": "Manannán mac Lir", "correct": true}
+      ]
+    },
+    {
+      "question": "Which Greek hero is known for his role in the Trojan War and his journey home in the Odyssey?",
+      "answers": [
+        {"option": "Hector", "correct": false},
+        {"option": "Odysseus", "correct": true},
+        {"option": "Achilles", "correct": false},
+        {"option": "Paris", "correct": false}
+      ]
+    },
+    {
+      "question": "Who is the chief god in Norse mythology?",
+      "answers": [
+        {"option": "Thor", "correct": false},
+        {"option": "Loki", "correct": false},
+        {"option": "Odin", "correct": true},
+        {"option": "Freyr", "correct": false}
+      ]
+    },
+    {
+      "question": "In Egyptian mythology, who is the god of the underworld?",
+      "answers": [
+        {"option": "Ra", "correct": false},
+        {"option": "Anubis", "correct": false},
+        {"option": "Osiris", "correct": true},
+        {"option": "Set", "correct": false}
+      ]
+    },
+    {
+      "question": "Which creature in Greek mythology turns people to stone with its gaze?",
+      "answers": [
+        {"option": "Cerberus", "correct": false},
+        {"option": "Hydra", "correct": false},
+        {"option": "Medusa", "correct": true},
+        {"option": "Siren", "correct": false}
+      ]
+    },
+    {
+      "question": "In Roman mythology, who is the goddess of love?",
+      "answers": [
+        {"option": "Venus", "correct": true},
+        {"option": "Juno", "correct": false},
+        {"option": "Minerva", "correct": false},
+        {"option": "Diana", "correct": false}
+      ]
+    },
+    {
+      "question": "Who is the Norse god of mischief?",
+      "answers": [
+        {"option": "Odin", "correct": false},
+        {"option": "Thor", "correct": false},
+        {"option": "Loki", "correct": true},
+        {"option": "Baldur", "correct": false}
+      ]
+    },
+    {
+      "question": "In Greek mythology, who is the god of the underworld?",
+      "answers": [
+        {"option": "Zeus", "correct": false},
+        {"option": "Poseidon", "correct": false},
+        {"option": "Hades", "correct": true},
+        {"option": "Apollo", "correct": false}
+      ]
+    },
+    {
+      "question": "Which Greek goddess is associated with the hunt?",
+      "answers": [
+        {"option": "Athena", "correct": false},
+        {"option": "Artemis", "correct": true},
+        {"option": "Demeter", "correct": false},
+        {"option": "Hera", "correct": false}
+      ]
+    },
+    {
+      "question": "In Hindu mythology, which god is known as the preserver?",
+      "answers": [
+        {"option": "Shiva", "correct": false},
+        {"option": "Vishnu", "correct": true},
+        {"option": "Brahma", "correct": false},
+        {"option": "Ganesha", "correct": false}
+      ]
+    },
+    {
+      "question": "Who is the wife of Hades in Greek mythology?",
+      "answers": [
+        {"option": "Aphrodite", "correct": false},
+        {"option": "Persephone", "correct": true},
+        {"option": "Hera", "correct": false},
+        {"option": "Demeter", "correct": false}
+      ]
+    },
+    {
+      "question": "In Egyptian mythology, who is the sun god?",
+      "answers": [
+        {"option": "Osiris", "correct": false},
+        {"option": "Horus", "correct": false},
+        {"option": "Ra", "correct": true},
+        {"option": "Thoth", "correct": false}
+      ]
+    }
+  ]
+}

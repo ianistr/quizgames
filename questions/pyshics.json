@@ -1,0 +1,187 @@
+
+{
+  "questions": [
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "answers": [
+        {"option": "300,000 km/s", "correct": true},
+        {"option": "150,000 km/s", "correct": false},
+        {"option": "299,792 km/s", "correct": false},
+        {"option": "3,000 km/s", "correct": false}
+      ]
+    },
+    {
+      "question": "Who is known as the father of modern physics?",
+      "answers": [
+        {"option": "Albert Einstein", "correct": false},
+        {"option": "Isaac Newton", "correct": true},
+        {"option": "Galileo Galilei", "correct": false},
+        {"option": "Niels Bohr", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the unit of force?",
+      "answers": [
+        {"option": "Joule", "correct": false},
+        {"option": "Pascal", "correct": false},
+        {"option": "Newton", "correct": true},
+        {"option": "Watt", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the law of inertia?",
+      "answers": [
+        {"option": "Newton's First Law", "correct": true},
+        {"option": "Newton's Second Law", "correct": false},
+        {"option": "Newton's Third Law", "correct": false},
+        {"option": "Law of Conservation of Energy", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the symbol for the gravitational constant?",
+      "answers": [
+        {"option": "g", "correct": false},
+        {"option": "G", "correct": true},
+        {"option": "k", "correct": false},
+        {"option": "λ", "correct": false}
+      ]
+    },
+    {
+      "question": "Who formulated the theory of relativity?",
+      "answers": [
+        {"option": "Isaac Newton", "correct": false},
+        {"option": "Albert Einstein", "correct": true},
+        {"option": "Nikola Tesla", "correct": false},
+        {"option": "Stephen Hawking", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the unit of electrical resistance?",
+      "answers": [
+        {"option": "Ohm", "correct": true},
+        {"option": "Volt", "correct": false},
+        {"option": "Ampere", "correct": false},
+        {"option": "Watt", "correct": false}
+      ]
+    },
+    {
+      "question": "Which particle is negatively charged?",
+      "answers": [
+        {"option": "Proton", "correct": false},
+        {"option": "Neutron", "correct": false},
+        {"option": "Electron", "correct": true},
+        {"option": "Positron", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the study of sound called?",
+      "answers": [
+        {"option": "Optics", "correct": false},
+        {"option": "Acoustics", "correct": true},
+        {"option": "Thermodynamics", "correct": false},
+        {"option": "Electrodynamics", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the phenomenon where light bends as it passes through different media?",
+      "answers": [
+        {"option": "Reflection", "correct": false},
+        {"option": "Refraction", "correct": true},
+        {"option": "Diffraction", "correct": false},
+        {"option": "Interference", "correct": false}
+      ]
+    },
+    {
+      "question": "Which law states that for every action, there is an equal and opposite reaction?",
+      "answers": [
+        {"option": "Newton's First Law", "correct": false},
+        {"option": "Newton's Second Law", "correct": false},
+        {"option": "Newton's Third Law", "correct": true},
+        {"option": "Law of Conservation of Momentum", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the atomic number of carbon?",
+      "answers": [
+        {"option": "6", "correct": true},
+        {"option": "8", "correct": false},
+        {"option": "12", "correct": false},
+        {"option": "14", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the primary source of the sun's energy?",
+      "answers": [
+        {"option": "Nuclear fusion", "correct": true},
+        {"option": "Nuclear fission", "correct": false},
+        {"option": "Chemical reactions", "correct": false},
+        {"option": "Geothermal energy", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the name of the force that opposes motion?",
+      "answers": [
+        {"option": "Gravity", "correct": false},
+        {"option": "Magnetism", "correct": false},
+        {"option": "Friction", "correct": true},
+        {"option": "Inertia", "correct": false}
+      ]
+    },
+    {
+      "question": "What does E=mc² represent?",
+      "answers": [
+        {"option": "Law of Universal Gravitation", "correct": false},
+        {"option": "Theory of General Relativity", "correct": false},
+        {"option": "Mass-energy equivalence", "correct": true},
+        {"option": "Photoelectric Effect", "correct": false}
+      ]
+    },
+    {
+      "question": "Who discovered the electron?",
+      "answers": [
+        {"option": "Isaac Newton", "correct": false},
+        {"option": "Niels Bohr", "correct": false},
+        {"option": "J.J. Thomson", "correct": true},
+        {"option": "Ernest Rutherford", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the SI unit of energy?",
+      "answers": [
+        {"option": "Joule", "correct": true},
+        {"option": "Calorie", "correct": false},
+        {"option": "Watt", "correct": false},
+        {"option": "Newton", "correct": false}
+      ]
+    },
+    {
+      "question": "What type of wave is light?",
+      "answers": [
+        {"option": "Mechanical wave", "correct": false},
+        {"option": "Transverse wave", "correct": true},
+        {"option": "Longitudinal wave", "correct": false},
+        {"option": "Sound wave", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the principle of superposition?",
+      "answers": [
+        {"option": "The net force on an object is the vector sum of all forces acting on it.", "correct": false},
+        {"option": "The displacement of a medium caused by two or more waves is the sum of the displacements caused by the individual waves.", "correct": true},
+        {"option": "Energy cannot be created or destroyed, only transferred or transformed.", "correct": false},
+        {"option": "For every action, there is an equal and opposite reaction.", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "answers": [
+        {"option": "It is impossible to measure both the position and momentum of a particle simultaneously with perfect accuracy.", "correct": true},
+        {"option": "Energy is quantized and can only exist in discrete amounts.", "correct": false},
+        {"option": "The speed of light is constant in a vacuum.", "correct": false},
+        {"option": "For every action, there is an equal and opposite reaction.", "correct": false}
+      ]
+    }
+  ]
+}
+
+

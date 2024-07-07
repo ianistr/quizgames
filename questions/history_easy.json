@@ -1,0 +1,185 @@
+{
+    "questions": [
+      {
+        "question": "Who was the first President of the United States?",
+        "answers": [
+          {"option": "George Washington", "correct": true},
+          {"option": "Thomas Jefferson", "correct": false},
+          {"option": "Abraham Lincoln", "correct": false},
+          {"option": "John Adams", "correct": false}
+        ]
+      },
+      {
+        "question": "In which year did Christopher Columbus discover America?",
+        "answers": [
+          {"option": "1492", "correct": true},
+          {"option": "1520", "correct": false},
+          {"option": "1620", "correct": false},
+          {"option": "1776", "correct": false}
+        ]
+      },
+      {
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "answers": [
+          {"option": "Joseph Stalin", "correct": true},
+          {"option": "Vladimir Lenin", "correct": false},
+          {"option": "Nikita Khrushchev", "correct": false},
+          {"option": "Mikhail Gorbachev", "correct": false}
+        ]
+      },
+      {
+        "question": "In which city did the famous 'Boston Tea Party' take place?",
+        "answers": [
+          {"option": "Boston", "correct": true},
+          {"option": "New York", "correct": false},
+          {"option": "Philadelphia", "correct": false},
+          {"option": "Washington D.C.", "correct": false}
+        ]
+      },
+      {
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "answers": [
+          {"option": "Margaret Thatcher", "correct": true},
+          {"option": "Queen Victoria", "correct": false},
+          {"option": "Theresa May", "correct": false},
+          {"option": "Indira Gandhi", "correct": false}
+        ]
+      },
+      {
+        "question": "Which ancient civilization built the pyramids?",
+        "answers": [
+          {"option": "Ancient Egyptians", "correct": true},
+          {"option": "Ancient Greeks", "correct": false},
+          {"option": "Ancient Romans", "correct": false},
+          {"option": "Mayans", "correct": false}
+        ]
+      },
+      {
+        "question": "Who was the first man to step on the Moon?",
+        "answers": [
+          {"option": "Neil Armstrong", "correct": true},
+          {"option": "Buzz Aldrin", "correct": false},
+          {"option": "Yuri Gagarin", "correct": false},
+          {"option": "John Glenn", "correct": false}
+        ]
+      },
+      {
+        "question": "In which year did World War I begin?",
+        "answers": [
+          {"option": "1914", "correct": true},
+          {"option": "1918", "correct": false},
+          {"option": "1939", "correct": false},
+          {"option": "1941", "correct": false}
+        ]
+      },
+      {
+        "question": "Who was the first Emperor of Rome?",
+        "answers": [
+          {"option": "Augustus", "correct": true},
+          {"option": "Julius Caesar", "correct": false},
+          {"option": "Nero", "correct": false},
+          {"option": "Constantine", "correct": false}
+        ]
+      },
+      {
+        "question": "What was the name of the ship on which Charles Darwin sailed during his famous voyage?",
+        "answers": [
+          {"option": "HMS Beagle", "correct": true},
+          {"option": "HMS Victory", "correct": false},
+          {"option": "HMS Bounty", "correct": false},
+          {"option": "HMS Endeavour", "correct": false}
+        ]
+      },
+      {
+        "question": "Who was the first female astronaut in space?",
+        "answers": [
+          {"option": "Valentina Tereshkova", "correct": true},
+          {"option": "Sally Ride", "correct": false},
+          {"option": "Yuri Gagarin", "correct": false},
+          {"option": "Mae Jemison", "correct": false}
+        ]
+      },
+      {
+        "question": "Which famous leader was assassinated on November 22, 1963?",
+        "answers": [
+          {"option": "John F. Kennedy", "correct": true},
+          {"option": "Martin Luther King Jr.", "correct": false},
+          {"option": "Abraham Lincoln", "correct": false},
+          {"option": "Malcolm X", "correct": false}
+        ]
+      },
+      {
+        "question": "In which country did the Industrial Revolution begin?",
+        "answers": [
+          {"option": "United Kingdom", "correct": true},
+          {"option": "France", "correct": false},
+          {"option": "Germany", "correct": false},
+          {"option": "United States", "correct": false}
+        ]
+      },
+      {
+        "question": "Who was the last pharaoh of Ancient Egypt?",
+        "answers": [
+          {"option": "Cleopatra", "correct": true},
+          {"option": "Hatshepsut", "correct": false},
+          {"option": "Ramesses II", "correct": false},
+          {"option": "Tutankhamun", "correct": false}
+        ]
+      },
+      {
+        "question": "Who wrote 'The Communist Manifesto'?",
+        "answers": [
+          {"option": "Karl Marx", "correct": true},
+          {"option": "Friedrich Engels", "correct": false},
+          {"option": "Vladimir Lenin", "correct": false},
+          {"option": "Joseph Stalin", "correct": false}
+        ]
+      },
+      {
+        "question": "Who was the first female ruler of England?",
+        "answers": [
+          {"option": "Queen Elizabeth I", "correct": true},
+          {"option": "Queen Victoria", "correct": false},
+          {"option": "Queen Mary I", "correct": false},
+          {"option": "Mary Queen of Scots", "correct": false}
+        ]
+      },
+      {
+        "question": "What year did the Berlin Wall fall?",
+        "answers": [
+          {"option": "1989", "correct": true},
+          {"option": "1991", "correct": false},
+          {"option": "1985", "correct": false},
+          {"option": "1993", "correct": false}
+        ]
+      },
+      {
+        "question": "Who was the first African-American President of the United States?",
+        "answers": [
+          {"option": "Barack Obama", "correct": true},
+          {"option": "Martin Luther King Jr.", "correct": false},
+          {"option": "Malcolm X", "correct": false},
+          {"option": "Jesse Jackson", "correct": false}
+        ]
+      },
+      {
+        "question": "What was the name of the ship that transported the Pilgrims to America in 1620?",
+        "answers": [
+          {"option": "Mayflower", "correct": true},
+          {"option": "Santa Maria", "correct": false},
+          {"option": "Nina", "correct": false},
+          {"option": "Victoria", "correct": false}
+        ]
+      },
+      {
+        "question": "What was the name of the German dictator during World World 2?",
+        "answers": [
+          {"option": "Joseph Stalin", "correct": false},
+          {"option": "Roger Federer", "correct": false},
+          {"option": "Nikola Tesla", "correct": false},
+          {"option": "Adolf Hitler", "correct": true}
+        ]
+      }
+    ]
+  }
+  

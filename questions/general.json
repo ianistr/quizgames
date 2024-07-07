@@ -1,0 +1,185 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of Japan?",
+        "answers": [
+          {"option": "Tokyo", "correct": true},
+          {"option": "Beijing", "correct": false},
+          {"option": "Seoul", "correct": false},
+          {"option": "Bangkok", "correct": false}
+        ]
+      },
+      {
+        "question": "Who invented the light bulb?",
+        "answers": [
+          {"option": "Thomas Edison", "correct": true},
+          {"option": "Nikola Tesla", "correct": false},
+          {"option": "Albert Einstein", "correct": false},
+          {"option": "Alexander Graham Bell", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "answers": [
+          {"option": "Mount Everest", "correct": true},
+          {"option": "K2", "correct": false},
+          {"option": "Kangchenjunga", "correct": false},
+          {"option": "Makalu", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the largest ocean in the world?",
+        "answers": [
+          {"option": "Pacific Ocean", "correct": true},
+          {"option": "Atlantic Ocean", "correct": false},
+          {"option": "Indian Ocean", "correct": false},
+          {"option": "Arctic Ocean", "correct": false}
+        ]
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+          {"option": "Mars", "correct": true},
+          {"option": "Jupiter", "correct": false},
+          {"option": "Venus", "correct": false},
+          {"option": "Mercury", "correct": false}
+        ]
+      },
+      {
+        "question": "Who is known as the 'Father of Computers'?",
+        "answers": [
+          {"option": "Charles Babbage", "correct": true},
+          {"option": "Alan Turing", "correct": false},
+          {"option": "Ada Lovelace", "correct": false},
+          {"option": "Steve Jobs", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the main ingredient in guacamole?",
+        "answers": [
+          {"option": "Avocado", "correct": true},
+          {"option": "Tomato", "correct": false},
+          {"option": "Onion", "correct": false},
+          {"option": "Cilantro", "correct": false}
+        ]
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "answers": [
+          {"option": "Albert Einstein", "correct": true},
+          {"option": "Isaac Newton", "correct": false},
+          {"option": "Stephen Hawking", "correct": false},
+          {"option": "Galileo Galilei", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+          {"option": "Au", "correct": true},
+          {"option": "Ag", "correct": false},
+          {"option": "Pt", "correct": false},
+          {"option": "Fe", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the currency of Australia?",
+        "answers": [
+          {"option": "Australian Dollar", "correct": true},
+          {"option": "Euro", "correct": false},
+          {"option": "Pound Sterling", "correct": false},
+          {"option": "Yen", "correct": false}
+        ]
+      },
+      {
+        "question": "Who was the first person to step on the Moon?",
+        "answers": [
+          {"option": "Neil Armstrong", "correct": true},
+          {"option": "Buzz Aldrin", "correct": false},
+          {"option": "Michael Collins", "correct": false},
+          {"option": "Yuri Gagarin", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "answers": [
+          {"option": "Skin", "correct": true},
+          {"option": "Liver", "correct": false},
+          {"option": "Heart", "correct": false},
+          {"option": "Brain", "correct": false}
+        ]
+      },
+      {
+        "question": "Who painted the 'Mona Lisa'?",
+        "answers": [
+          {"option": "Leonardo da Vinci", "correct": true},
+          {"option": "Vincent van Gogh", "correct": false},
+          {"option": "Pablo Picasso", "correct": false},
+          {"option": "Claude Monet", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "answers": [
+          {"option": "H2O", "correct": true},
+          {"option": "CO2", "correct": false},
+          {"option": "NaCl", "correct": false},
+          {"option": "O2", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the main component of the Earth's atmosphere?",
+        "answers": [
+          {"option": "Nitrogen", "correct": true},
+          {"option": "Oxygen", "correct": false},
+          {"option": "Carbon Dioxide", "correct": false},
+          {"option": "Hydrogen", "correct": false}
+        ]
+      },
+      {
+        "question": "Who developed the theory of evolution?",
+        "answers": [
+          {"option": "Charles Darwin", "correct": true},
+          {"option": "Gregor Mendel", "correct": false},
+          {"option": "Louis Pasteur", "correct": false},
+          {"option": "Alfred Wallace", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the chemical symbol for iron?",
+        "answers": [
+          {"option": "Fe", "correct": true},
+          {"option": "Au", "correct": false},
+          {"option": "Ag", "correct": false},
+          {"option": "Pb", "correct": false}
+        ]
+      },
+      {
+        "question": "Who wrote 'The Communist Manifesto'?",
+        "answers": [
+          {"option": "Karl Marx", "correct": true},
+          {"option": "Friedrich Engels", "correct": false},
+          {"option": "Vladimir Lenin", "correct": false},
+          {"option": "Joseph Stalin", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "answers": [
+          {"option": "Jupiter", "correct": true},
+          {"option": "Saturn", "correct": false},
+          {"option": "Neptune", "correct": false},
+          {"option": "Uranus", "correct": false}
+        ]
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "answers": [
+          {"option": "Alexander Fleming", "correct": true},
+          {"option": "Louis Pasteur", "correct": false},
+          {"option": "Marie Curie", "correct": false},
+          {"option": "Edward Jenner", "correct": false}
+        ]
+      }
+    ]
+  }
+  

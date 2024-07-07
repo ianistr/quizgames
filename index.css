@@ -1,0 +1,222 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(69, 51, 51);
+    color: white;
+    overflow-x: hidden;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.quizes {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-top: 10px;
+ width: calc(33.333% - 30px);
+ height: 250px;
+ text-decoration: none;
+ font-size: 55px;
+ text-shadow: 3px 3px 1px black;
+ color: rgb(243, 221, 221);
+ border: 5px outset rgba(216, 189, 189, 0.804);
+ border-radius: 60px;
+ position: relative;
+ z-index: 0;
+ box-shadow: 8px 4px 50px 0px rgb(0, 0, 0);
+
+}
+
+
+.quizes:hover{
+    opacity: 70%;
+    cursor: pointer;
+  
+}
+
+
+
+
+
+#content{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left:10px;
+   
+}
+
+
+#general-knowledge{
+    background-image: url(photos/leonardobooks.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#history{
+    background-image: url(photos/history.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 60px;
+}
+
+#geography{
+    background-image: url(photos/geography3.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+#Physics{
+    background-image: url(photos/physics-cut.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#movies{
+    background-image: url(photos/movies.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#mythology{
+    background-image: url(photos/mythology.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.marquee {
+    width: 100vw; /* Full width */
+    left: 0;
+    overflow: hidden; /* Hide overflow */
+    white-space: nowrap; /* No line breaks */
+    box-sizing: border-box;
+    position: relative; /* Required for positioning */
+    background-color: rgb(138, 93, 93);
+    
+}
+
+.marquee-inner {
+    display: inline-block;
+    white-space: nowrap; /* No line breaks */
+    animation: marquee 80s linear infinite; /* Animation */
+    height: 250px;
+    padding: 10px;
+}
+
+.marquee a {
+    display: inline-block;
+    padding: 0 2rem; /* Space between links */
+    text-decoration: none;
+    color: #ffffff;
+    overflow-wrap: break-word;
+    height: 250px;
+    width: 300px;
+    height: 90%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 55px;
+    text-shadow: 3px 3px 1px black;
+    color: rgb(243, 221, 221);
+    border: 5px outset rgba(216, 189, 189, 0.804);
+    border-radius: 60px;
+    position: relative;
+    z-index: 0;
+    box-shadow: 8px 4px 50px 0px rgb(0, 0, 0);
+    margin-top: 5px;
+    margin-left: 8px;
+    line-height: 200px;
+}
+.marquee a:hover{
+    opacity: 70%;
+    cursor: pointer;
+  
+}
+@keyframes marquee {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+p{
+    text-align: left;
+    margin: 20px;
+    
+    font-size: 20px;
+    font-weight: bold;
+    
+    
+}
+
+
+.navbar {
+    background: linear-gradient(to right, #b37072 0%, #6c7d96 50%,  #b37072 100%);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin: 0 20px;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 28px;
+    transition: color 0.2s ease;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.nav-links a:hover {
+    color: #f0a500;
+    text-decoration: underline;
+}
+
+.nav-links .brand {
+    font-size: 34px;
+    font-weight: bold;
+    transform: translateY(-8px);
+    user-select: none;
+    color: #fff;
+    margin-top: 8px;
+}
+
+h2{
+    margin-top: 80px;
+}
+
+
